@@ -25,7 +25,7 @@ The records table updated every round.
 
 1. Clone the repository:
 
-   git clone https://github.com/barkarny/memory-matching-game.git
+   git clone [https://github.com/barkarny/Memory-game.git](https://github.com/barkarny/Memory-game.git)
 
 2. Run command :
 
