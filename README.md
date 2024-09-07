@@ -14,6 +14,11 @@ The records table updated every round.
 - Score tracking to keep a record of the number of moves/flips made.
 - Option to start a new game and reset the score.
 
+# Project Overview
+
+Here's a demo of how the application works:
+
+![Demo](https://github.com/barkarny/Memory-game/blob/main/giphy.mp4)
 ## Technologies Used
 
 - HTML5
