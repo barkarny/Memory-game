@@ -18,7 +18,7 @@ The records table updated every round.
 
 Here's a demo of how the application works:
 
-![Demo](https://github.com/barkarny/Memory-game/blob/main/giphy.mp4)
+![Demo](https://raw.githubusercontent.com/barkarny/Memory-game/blob/main/giphy.mp4)
 ## Technologies Used
 
 - HTML5
