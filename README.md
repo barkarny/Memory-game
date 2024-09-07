@@ -17,8 +17,8 @@ The records table updated every round.
 # Project Overview
 
 Here's a demo of how the application works:
+![Demo GIF](https://giphy.com/gifs/euOrqbcynkA1iBf1lQ)
 
-<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/euOrqbcynkA1iBf1lQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/euOrqbcynkA1iBf1lQ">via GIPHY</a></p>
 
 ## Technologies Used
 
